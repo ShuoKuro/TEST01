@@ -12,6 +12,7 @@ namespace TEST01
 {
     public partial class Form1 : Form
     {
+        int nothing;
         int add(int a, int b,int c)
         {
             return a + b + c;  
